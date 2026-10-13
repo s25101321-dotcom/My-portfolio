@@ -5,7 +5,7 @@
     <title>MuXinYi</title>
 </head>
 <body>
-    <h1>Hello, world!</h1>
+    <h1>My Portfolio</h1>
     <p>Welcome to my website hosted on GitHub Pages.</p>
 </body>
 </html>
